@@ -1,0 +1,10 @@
+date,label,status,source,note
+2022-11,ChatGPT public / API-only phase,PRIMARY,slides 3-4,Start of public generative LLM wave
+2023-02,LLaMA — English only,PRIMARY,slides 5-6,Open model still not useful for spoken Arabic
+2023-06,Falcon — English only,PRIMARY,slides 7-8,Same language gap persists
+2023-08,JAIS / AceGPT — still no spoken Arabic,PRIMARY,slides 9-10,PRIMARY ends timeline with No Spoken Arabic
+2023-10,Post-7 Oct acceleration / reservists (reported),SECONDARY,Guardian/+972 2025-03,Organizational acceleration — not proven as project origin
+2024-09-11,DefenseML slides dated,PRIMARY,slide 1,Methodology talk public
+2024-09-25,Public video lecture published (YouTube),PRIMARY,SRC-002,Machine & Deep Learning Israel channel
+2024-H2,Large model still training (reported),SECONDARY,Guardian/+972,Deployment not established
+2025-03-06,Joint investigation published,SECONDARY,Guardian/+972/Local Call,Source Delta layer added
